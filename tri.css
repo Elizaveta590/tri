@@ -51,7 +51,7 @@ body {
   
 .player input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none !important;
-  background: цветзаполняемойстрокитрека;
+  background: red;
   height: 5px;
   width: 5px;
   border-radius: 50%;
